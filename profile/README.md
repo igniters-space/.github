@@ -5,14 +5,15 @@
 
 ### Connect with Us:
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
-[<img src="https://img.shields.io/badge/EMail-%23333.svg?&style=for-the-badge&logo=mail&logoColor=white" />][Mail]
+[<img src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=email&logoColor=white" />][Mail]
+[<img src="https://img.shields.io/badge/discord-%23333.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 # Projects 
 - [Nirvana] is a web app aimed to provide happiness and motivation in times of despair and at any time.
 - [purgo] is a water management project that connects water suppliers and consumers from a function event.
 <!-- <div align="center"> -->
 
-# Project Maintainers
+# Maintainers
 - [Divya Sri Darimisetti][Divya]
 - [Rupesh Darimisetti][Rupesh] 
 - [Sairaj Chouhan][Sairaj]
@@ -32,12 +33,13 @@
 <!--Social Media Links -->
 [github]: https://github.com/igniters-space
 [Mail]: ignitersspace@gmail.com
+[discord]: https://discord.gg/AW3BTd3K
 
 <!-- Projects Links -->
 [Nirvana]: https://github.com/igniters-space/nirvana
 [purgo]: https://github.com/igniters-space/purgo
 
-<!-- Maimtainers -->
+<!-- Maintainers -->
 
 [Rupesh]: https://github.com/Rupesh-Darimisetti
 [Divya]: https://github.com/irsayvid
