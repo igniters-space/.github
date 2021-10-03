@@ -12,9 +12,9 @@
 - [purgo] is a water management project that connects water suppliers and consumers from a function event.
 <!-- <div align="center"> -->
 
-# Project Mainters
-- [Rupesh Darimisetti][Rupesh]
+# Project Maintainers
 - [Divya Sri Darimisetti][Divya]
+- [Rupesh Darimisetti][Rupesh] 
 - [Sairaj Chouhan][Sairaj]
 
 <!-- ## GitHub stats -->
@@ -23,8 +23,10 @@
 <img  style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=igniters-space&theme=radical"/>
 <img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igniters-space&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p> -->
 
-<!-- <div align="center">  -->
-###  Show some ❤️ by starring some of the repositories!
+<div align="center"> 
+  
+## Show some ❤️ by starring some of the repositories!
+  
 </div>
 
 <!--Social Media Links -->
